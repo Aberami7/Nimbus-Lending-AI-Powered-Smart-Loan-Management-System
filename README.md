@@ -1,3 +1,5 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
 <div align="center">
 
 # 🚀 Nimbus Lending
@@ -21,17 +23,6 @@ Modern Full-Stack Loan Management Platform powered by Artificial Intelligence, O
 
 </p>
 
-<p>
-
-<img src="https://img.shields.io/github/license/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
-
-<img src="https://img.shields.io/github/stars/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
-
-<img src="https://img.shields.io/github/forks/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
-
-<img src="https://img.shields.io/github/last-commit/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
-
-</p>
 
 </div>
 
