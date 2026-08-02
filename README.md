@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀 Nimbus Lending
+
 ### AI-Powered Smart Loan Management System
 
 <p>
@@ -8,246 +9,105 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq%20AI-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OCR-Enabled-purple?style=for-the-badge"/>
 </p>
 
 <p>
+<strong>Modern Full-Stack Loan Management Platform with AI-Powered Eligibility Assessment and OCR-Based Document Verification</strong>
+</p>
 
-**An intelligent AI-powered loan management platform that automates loan applications, OCR-based document verification, AI eligibility analysis, and secure loan processing with role-based access for users and administrators.**
-
+<p>
+<img src="https://img.shields.io/github/license/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
+<img src="https://img.shields.io/github/stars/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
+<img src="https://img.shields.io/github/forks/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/Aberami7/Nimbus-Lending-AI-Powered-Smart-Loan-Management-System?style=flat-square"/>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
+# Project Overview
 
-# 📌 Project Overview
+Nimbus Lending is an AI-powered loan management platform that streamlines the complete loan lifecycle. The application enables customers to apply for loans digitally, upload required documents, and receive AI-assisted eligibility analysis. OCR technology extracts information from uploaded documents while AI assists administrators in making faster and more accurate loan approval decisions.
 
-</div>
+---
 
-Nimbus Lending is a modern full-stack web application designed to simplify the complete loan approval process using Artificial Intelligence. The system enables customers to apply for loans online, upload required documents, and instantly receive AI-assisted eligibility analysis. OCR technology extracts information from uploaded documents, while AI evaluates eligibility and assists administrators in making faster and more accurate approval decisions.
+# Key Features
+
+| User Module | Admin Module |
+|:-----------:|:------------:|
+| Secure Authentication | Admin Dashboard |
+| User Profile Management | Manage Loan Applications |
+| Apply for Loans | OCR Document Verification |
+| Upload Documents | AI Eligibility Review |
+| AI Eligibility Analysis | Approve / Reject Loans |
+| Track Application Status | Reports & Analytics |
+| EMI Calculator | User Management |
+| Loan Agreement | Loan Product Management |
+| Notifications | Dashboard Statistics |
+
+---
+
+# AI Capabilities
+
+| Feature | Description |
+|:--------|:------------|
+| OCR Document Verification | Extracts text from uploaded documents automatically. |
+| AI Eligibility Assessment | Evaluates applicant details and predicts loan eligibility. |
+| Explainable AI | Provides reasons behind approval and rejection decisions. |
+| Smart Verification | Detects missing or inconsistent information in documents. |
+
+---
+
+# Technology Stack
+
+| Frontend | Backend | Database | AI |
+|:--------:|:-------:|:--------:|:--:|
+| React.js | Node.js | MySQL | Groq AI |
+| Vite | Express.js | Aiven Cloud | OCR |
+| Tailwind CSS | JWT Authentication | | Llama 3.3 |
+| Axios | REST API | | |
 
 ---
 
 <div align="center">
 
-# ✨ Key Features
-
-<table>
-
-<tr>
-<th align="center">User Module</th>
-<th align="center">Admin Module</th>
-</tr>
-
-<tr>
-
-<td align="center">
-
-🔐 Secure Login & Signup
-
-👤 User Profile
-
-📝 Apply for Loans
-
-📄 Upload Documents
-
-🤖 AI Eligibility Analysis
-
-📊 Track Loan Status
-
-💰 EMI Calculator
-
-📜 Loan Agreement
-
-🔔 Notifications
-
-</td>
-
-<td align="center">
-
-👨‍💼 Admin Dashboard
-
-📋 Manage Applications
-
-📄 OCR Document Verification
-
-🤖 AI Eligibility Review
-
-✅ Approve / Reject Loans
-
-👥 User Management
-
-📊 Reports & Analytics
-
-📈 Dashboard Statistics
-
-⚙️ Loan Product Management
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🤖 AI Capabilities
-
-<table>
-
-<tr>
-<th align="center">Feature</th>
-<th align="center">Description</th>
-</tr>
-
-<tr>
-<td align="center">OCR Document Verification</td>
-<td align="center">Extracts text automatically from uploaded loan documents.</td>
-</tr>
-
-<tr>
-<td align="center">AI Eligibility Analysis</td>
-<td align="center">Analyzes applicant information and predicts loan eligibility.</td>
-</tr>
-
-<tr>
-<td align="center">Explainable AI</td>
-<td align="center">Provides reasons behind approval or rejection recommendations.</td>
-</tr>
-
-<tr>
-<td align="center">Smart Verification</td>
-<td align="center">Detects missing or inconsistent information in uploaded documents.</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🛠 Technology Stack
-
-<table>
-
-<tr>
-
-<th align="center">Frontend</th>
-
-<th align="center">Backend</th>
-
-<th align="center">Database</th>
-
-<th align="center">Artificial Intelligence</th>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-React.js
-
-Vite
-
-Tailwind CSS
-
-Axios
-
-</td>
-
-<td align="center">
-
-Node.js
-
-Express.js
-
-JWT Authentication
-
-Multer
-
-REST API
-
-</td>
-
-<td align="center">
-
-MySQL
-
-Aiven Cloud
-
-</td>
-
-<td align="center">
-
-Groq AI
-
-Llama 3.3 70B
-
-OCR
-
-AI Recommendation Engine
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# 🔄 System Workflow
-
-</div>
+# System Workflow
 
 ```text
-                 User Login
-                      │
-                      ▼
-            Submit Loan Application
-                      │
-                      ▼
-             Upload Documents
-                      │
-                      ▼
-        OCR Document Verification
-                      │
-                      ▼
-      AI Eligibility Assessment
-                      │
-                      ▼
-       Admin Review & Approval
-                      │
-          ┌───────────┴───────────┐
-          ▼                       ▼
-     Loan Approved         Loan Rejected
-          │                       │
-          └───────────┬───────────┘
-                      ▼
-             User Dashboard
+                         USER LOGIN
+                              │
+                              ▼
+                  SUBMIT LOAN APPLICATION
+                              │
+                              ▼
+                    UPLOAD DOCUMENTS
+                              │
+                              ▼
+                 OCR DOCUMENT VERIFICATION
+                              │
+                              ▼
+              AI ELIGIBILITY ASSESSMENT
+                              │
+                              ▼
+                 ADMIN REVIEW & VERIFICATION
+                              │
+                 ┌────────────┴────────────┐
+                 ▼                         ▼
+          LOAN APPROVED             LOAN REJECTED
+                 │                         │
+                 └────────────┬────────────┘
+                              ▼
+                     USER DASHBOARD
 ```
+
+</div>
 
 ---
 
-<div align="center">
-
-# 📂 Project Structure
-
-</div>
+# Project Structure
 
 ```text
 Nimbus-Lending
@@ -273,29 +133,21 @@ Nimbus-Lending
 
 ---
 
-<div align="center">
+# Future Enhancements
 
-# 🚀 Future Enhancements
-
-</div>
-
-- 💳 Credit Risk Prediction
-- 📧 Email Notifications
-- 📱 SMS Notifications
-- 🤖 AI Loan Chatbot
-- ✍️ Digital Signature Integration
-- 🌍 Multi-language Support
-- 📈 Predictive Loan Default Analysis
-- 🆔 Aadhaar e-KYC Integration
+- Credit Risk Prediction
+- AI Loan Recommendation Engine
+- Email Notifications
+- SMS Notifications
+- AI Chatbot
+- Digital Signature
+- Aadhaar e-KYC Integration
+- Predictive Loan Default Analysis
 
 ---
 
 <div align="center">
 
-# 👨‍💻 Developed With
-
-❤️ React.js • Node.js • Express.js • MySQL • Groq AI • OCR
-
-### ⭐ If you like this project, don't forget to Star this repository!
+### ⭐ If you found this project useful, consider giving it a Star.
 
 </div>
