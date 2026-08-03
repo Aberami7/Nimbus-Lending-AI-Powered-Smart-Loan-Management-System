@@ -31,8 +31,7 @@
 ## 📖 Project Overview
 
 **Nimbus Lending** is an AI-powered Smart Loan Management System that digitizes the complete loan approval lifecycle. The platform enables users to submit loan applications online, upload required documents, and receive AI-assisted eligibility analysis. OCR technology automatically extracts document information, while Artificial Intelligence helps administrators verify applications and make faster, more informed loan approval decisions.
-
-**🔗 Live Demo:** [nimbus-lending-frontend.onrender.com](https://nimbus-lending-frontend.onrender.com/)
+nder.com/)
 
 ---
 
