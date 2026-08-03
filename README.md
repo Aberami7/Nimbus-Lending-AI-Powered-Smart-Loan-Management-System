@@ -153,8 +153,14 @@ Nimbus-Lending
 
 <div align="center">
 
-Credit Risk Prediction • AI Loan Recommendation • AI Chatbot • Digital Signature
-Email Notifications • SMS Notifications • Aadhaar e-KYC • Predictive Loan Default Analysis
+• Credit Risk Prediction
+• AI Loan Recommendation 
+• AI Chatbot
+• Digital Signature
+• Email Notifications 
+• SMS Notifications 
+• Aadhaar e-KYC 
+• Predictive Loan Default Analysis
 
 </div>
 
