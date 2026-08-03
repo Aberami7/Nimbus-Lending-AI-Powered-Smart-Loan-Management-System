@@ -1,6 +1,5 @@
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=header"/>
 
 # 🚀 Nimbus Lending
 
@@ -16,253 +15,91 @@
 </p>
 
 <p>
-
-<strong>
-Modern Full-Stack Loan Management Platform powered by Artificial Intelligence, OCR, and Cloud Database.
-</strong>
-
+<strong>A modern, full-stack loan management platform powered by Artificial Intelligence, OCR, and cloud-native infrastructure.</strong>
 </p>
 
+<p>
+<a href="https://nimbus-lending-frontend.onrender.com/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-4F46E5?style=for-the-badge"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## 📖 Project Overview
 
-# Project Overview
+**Nimbus Lending** is an AI-powered Smart Loan Management System that digitizes the complete loan approval lifecycle. The platform enables users to submit loan applications online, upload required documents, and receive AI-assisted eligibility analysis. OCR technology automatically extracts document information, while Artificial Intelligence helps administrators verify applications and make faster, more informed loan approval decisions.
 
-</div>
-
-Nimbus Lending is an AI-powered Smart Loan Management System that digitizes the complete loan approval lifecycle. The platform enables users to submit loan applications online, upload required documents, and receive AI-assisted eligibility analysis. OCR technology automatically extracts document information, while Artificial Intelligence helps administrators verify applications and make faster, more informed loan approval decisions.
+**🔗 Live Demo:** [nimbus-lending-frontend.onrender.com](https://nimbus-lending-frontend.onrender.com/)
 
 ---
 
-<div align="center">
-
-# Key Features
+## ✨ Key Features
 
 <table>
-
 <tr>
-<th align="center" width="50%">User Module</th>
-<th align="center" width="50%">Admin Module</th>
+<th align="center" width="50%">👤 User Module</th>
+<th align="center" width="50%">🛠️ Admin Module</th>
 </tr>
-
 <tr>
+<td>
 
-<td align="center">
-
-Secure Authentication<br><br>
-
-Profile Management<br><br>
-
-Loan Application<br><br>
-
-Document Upload<br><br>
-
-AI Eligibility Analysis<br><br>
-
-Application Tracking<br><br>
-
-EMI Calculator<br><br>
-
-Loan Agreement<br><br>
-
-Notifications
+- Secure Authentication
+- Profile Management
+- Loan Application
+- Document Upload
+- AI Eligibility Analysis
+- Application Tracking
+- EMI Calculator
+- Loan Agreement
+- Notifications
 
 </td>
+<td>
 
-<td align="center">
-
-Admin Dashboard<br><br>
-
-Application Management<br><br>
-
-OCR Document Verification<br><br>
-
-AI Eligibility Review<br><br>
-
-Approve / Reject Loans<br><br>
-
-Reports & Analytics<br><br>
-
-User Management<br><br>
-
-Loan Products<br><br>
-
-Dashboard Statistics
+- Admin Dashboard
+- Application Management
+- OCR Document Verification
+- AI Eligibility Review
+- Approve / Reject Loans
+- Reports & Analytics
+- User Management
+- Loan Products
+- Dashboard Statistics
 
 </td>
-
 </tr>
-
 </table>
-
-</div>
 
 ---
 
-<div align="center">
+## 🤖 AI Capabilities
 
-# AI Capabilities
-
-<table>
-
-<tr>
-
-<th align="center">Feature</th>
-
-<th align="center">Description</th>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-OCR Document Verification
-
-</td>
-
-<td align="center">
-
-Automatically extracts text from uploaded documents.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-AI Eligibility Assessment
-
-</td>
-
-<td align="center">
-
-Predicts loan eligibility using applicant information.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-Explainable AI
-
-</td>
-
-<td align="center">
-
-Provides reasons behind approval or rejection decisions.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-Smart Document Validation
-
-</td>
-
-<td align="center">
-
-Detects missing or inconsistent information automatically.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+| Feature | Description |
+|---|---|
+| **OCR Document Verification** | Automatically extracts text from uploaded documents. |
+| **AI Eligibility Assessment** | Predicts loan eligibility using applicant information. |
+| **Explainable AI** | Provides reasons behind approval or rejection decisions. |
+| **Smart Document Validation** | Detects missing or inconsistent information automatically. |
 
 ---
 
-<div align="center">
+## 🧰 Technology Stack
 
-# Technology Stack
-
-<table>
-
-<tr>
-
-<th align="center">Frontend</th>
-
-<th align="center">Backend</th>
-
-<th align="center">Database</th>
-
-<th align="center">Artificial Intelligence</th>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-React.js<br><br>
-
-Vite<br><br>
-
-Tailwind CSS<br><br>
-
-Axios
-
-</td>
-
-<td align="center">
-
-Node.js<br><br>
-
-Express.js<br><br>
-
-JWT Authentication<br><br>
-
-REST API
-
-</td>
-
-<td align="center">
-
-MySQL<br><br>
-
-Aiven Cloud
-
-</td>
-
-<td align="center">
-
-Groq AI<br><br>
-
-Llama 3.3<br><br>
-
-OCR Engine
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+| Frontend | Backend | Database | Artificial Intelligence |
+|---|---|---|---|
+| React.js | Node.js | MySQL | Groq AI |
+| Vite | Express.js | Aiven Cloud | Llama 3.3 |
+| Tailwind CSS | JWT Authentication | | OCR Engine |
+| Axios | REST API | | |
 
 ---
 
-<div align="center">
+## 🔄 System Workflow
 
-# System Workflow
-
-<pre>
-
+```
                     USER LOGIN
                          │
                          ▼
@@ -287,18 +124,11 @@ OCR Engine
             └────────────┬────────────┘
                          ▼
                  USER DASHBOARD
-
-</pre>
-
-</div>
+```
 
 ---
 
-<div align="center">
-
-# Project Structure
-
-</div>
+## 📁 Project Structure
 
 ```text
 Nimbus-Lending
@@ -325,49 +155,40 @@ Nimbus-Lending
 
 ---
 
-<div align="center">
-
-# Future Enhancements
+## 🚧 Future Enhancements
 
 <table>
-
 <tr>
+<td width="50%">
 
-<td align="center" width="50%">
-
-Credit Risk Prediction<br><br>
-
-AI Loan Recommendation<br><br>
-
-AI Chatbot<br><br>
-
-Digital Signature
+- Credit Risk Prediction
+- AI Loan Recommendation
+- AI Chatbot
+- Digital Signature
 
 </td>
+<td width="50%">
 
-<td align="center" width="50%">
-
-Email Notifications<br><br>
-
-SMS Notifications<br><br>
-
-Aadhaar e-KYC<br><br>
-
-Predictive Loan Default Analysis
+- Email Notifications
+- SMS Notifications
+- Aadhaar e-KYC
+- Predictive Loan Default Analysis
 
 </td>
-
 </tr>
-
 </table>
 
-</div>
+---
+
+## 🔗 Links
+
+- **Live Demo:** [nimbus-lending-frontend.onrender.com](https://nimbus-lending-frontend.onrender.com/)
 
 ---
 
 <div align="center">
 
-### If you find this project useful, consider giving it a ⭐
+### ⭐ If you find this project useful, consider giving it a star!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
 
