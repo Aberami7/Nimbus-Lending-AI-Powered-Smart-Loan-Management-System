@@ -85,8 +85,9 @@ Approve / Reject Loans • Reports & Analytics • User Management • Loan Prod
 ---
 
 ## 🔄 System Workflow
-
+<div align="center">
 ```
+
                     USER LOGIN
                          │
                          ▼
@@ -111,8 +112,8 @@ Approve / Reject Loans • Reports & Analytics • User Management • Loan Prod
             └────────────┬────────────┘
                          ▼
                  USER DASHBOARD
-```
-
+```</div>
+ 
 ---
 
 ## 📁 Project Structure
@@ -146,8 +147,14 @@ Nimbus-Lending
 
 <div align="center">
 
-Credit Risk Prediction • AI Loan Recommendation • AI Chatbot • Digital Signature
-Email Notifications • SMS Notifications • Aadhaar e-KYC • Predictive Loan Default Analysis
+• Credit Risk Prediction 
+• AI Loan Recommendation 
+• AI Chatbot
+• Digital Signature
+• Email Notifications 
+• SMS Notifications 
+• Aadhaar e-KYC 
+• Predictive Loan Default Analysis
 
 </div>
 
