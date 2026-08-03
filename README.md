@@ -38,62 +38,49 @@
 
 ## ✨ Key Features
 
-<table>
-<tr>
-<th align="center" width="50%">👤 User Module</th>
-<th align="center" width="50%">🛠️ Admin Module</th>
-</tr>
-<tr>
-<td>
+<div align="center">
 
-- Secure Authentication
-- Profile Management
-- Loan Application
-- Document Upload
-- AI Eligibility Analysis
-- Application Tracking
-- EMI Calculator
-- Loan Agreement
-- Notifications
+### 👤 User Module
 
-</td>
-<td>
+Secure Authentication • Profile Management • Loan Application • Document Upload
+AI Eligibility Analysis • Application Tracking • EMI Calculator • Loan Agreement • Notifications
 
-- Admin Dashboard
-- Application Management
-- OCR Document Verification
-- AI Eligibility Review
-- Approve / Reject Loans
-- Reports & Analytics
-- User Management
-- Loan Products
-- Dashboard Statistics
+### 🛠️ Admin Module
 
-</td>
-</tr>
-</table>
+Admin Dashboard • Application Management • OCR Document Verification • AI Eligibility Review
+Approve / Reject Loans • Reports & Analytics • User Management • Loan Products • Dashboard Statistics
+
+</div>
 
 ---
 
 ## 🤖 AI Capabilities
 
+<div align="center">
+
 | Feature | Description |
-|---|---|
+|:---:|:---:|
 | **OCR Document Verification** | Automatically extracts text from uploaded documents. |
 | **AI Eligibility Assessment** | Predicts loan eligibility using applicant information. |
 | **Explainable AI** | Provides reasons behind approval or rejection decisions. |
 | **Smart Document Validation** | Detects missing or inconsistent information automatically. |
 
+</div>
+
 ---
 
 ## 🧰 Technology Stack
 
+<div align="center">
+
 | Frontend | Backend | Database | Artificial Intelligence |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | React.js | Node.js | MySQL | Groq AI |
 | Vite | Express.js | Aiven Cloud | Llama 3.3 |
 | Tailwind CSS | JWT Authentication | | OCR Engine |
 | Axios | REST API | | |
+
+</div>
 
 ---
 
@@ -157,26 +144,12 @@ Nimbus-Lending
 
 ## 🚧 Future Enhancements
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-- Credit Risk Prediction
-- AI Loan Recommendation
-- AI Chatbot
-- Digital Signature
+Credit Risk Prediction • AI Loan Recommendation • AI Chatbot • Digital Signature
+Email Notifications • SMS Notifications • Aadhaar e-KYC • Predictive Loan Default Analysis
 
-</td>
-<td width="50%">
-
-- Email Notifications
-- SMS Notifications
-- Aadhaar e-KYC
-- Predictive Loan Default Analysis
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
